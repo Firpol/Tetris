@@ -1,0 +1,14 @@
+C:\Users\gosha\source\repos\Тетрис\Тетрис\obj\Debug\net8.0\Тетрис.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gosha\source\repos\Тетрис\Тетрис\obj\Debug\net8.0\Тетрис.AssemblyInfoInputs.cache
+C:\Users\gosha\source\repos\Тетрис\Тетрис\obj\Debug\net8.0\Тетрис.AssemblyInfo.cs
+C:\Users\gosha\source\repos\Тетрис\Тетрис\obj\Debug\net8.0\Тетрис.csproj.CoreCompileInputs.cache
+C:\Users\gosha\source\repos\Тетрис\Тетрис\bin\Debug\net8.0\Тетрис.exe
+C:\Users\gosha\source\repos\Тетрис\Тетрис\bin\Debug\net8.0\Тетрис.deps.json
+C:\Users\gosha\source\repos\Тетрис\Тетрис\bin\Debug\net8.0\Тетрис.runtimeconfig.json
+C:\Users\gosha\source\repos\Тетрис\Тетрис\bin\Debug\net8.0\Тетрис.dll
+C:\Users\gosha\source\repos\Тетрис\Тетрис\bin\Debug\net8.0\Тетрис.pdb
+C:\Users\gosha\source\repos\Тетрис\Тетрис\obj\Debug\net8.0\Тетрис.dll
+C:\Users\gosha\source\repos\Тетрис\Тетрис\obj\Debug\net8.0\refint\Тетрис.dll
+C:\Users\gosha\source\repos\Тетрис\Тетрис\obj\Debug\net8.0\Тетрис.pdb
+C:\Users\gosha\source\repos\Тетрис\Тетрис\obj\Debug\net8.0\Тетрис.genruntimeconfig.cache
+C:\Users\gosha\source\repos\Тетрис\Тетрис\obj\Debug\net8.0\ref\Тетрис.dll
